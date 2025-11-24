@@ -1,0 +1,134 @@
+Participant,Brand,Familiarity_Rating,Familiarity,Color,Color_Association,Textbox_Response,Memory_Recall
+,,,,,,,
+rahil1,starbucks,1,Familiar,green,Strong,starbucks,1
+rahil1,icici,1,Familiar,orangered,weak,upds,0
+rahil1,nike,1,Familiar,black,Strong,nike,1
+rahil1,alibaba,1,Familiar,orange,Weak,nike,0
+rahil1,snapchat,1,Familiar,yellow,Strong,snapchat,1
+rahil1,coca cola,1,Familiar,red,Strong,coca cola ,1
+rahil1,barbie,1,Familiar,pink,Strong,barbie,1
+rahil1,district,1.020833333,Familiar,purple,strong ,district,1
+rahil1,motherdairy,1.947916667,Familiar,light blue,Weak,moth,0
+rahil1,hilton,3.973958333,Unfamiliar,blue,weak,redbull,0
+rahil1,dropbox,4.947916667,Unfamiliar,dark blue,Strong,dropbox,1
+rahil1,ups,5,Unfamiliar,blackgold,weak,,0
+,,,,,,,
+nivi1,coca cola,1,Familiar,red,Strong,coca cola,1
+nivi1,starbucks,1,Familiar,green,Strong,starbucks,1
+nivi1,nike,1,Familiar,black,Strong,nike,1
+nivi1,snapchat,1,Familiar,yellow,Strong,snapchat,1
+nivi1,district,2,Familiar,purple,Weak,,0
+nivi1,motherdairy,2.005208333,Familiar,light blue,Weak,,0
+nivi1,barbie,2.005208333,Familiar,pink,Strong,barbie,1
+nivi1,icici,2.984375,Unfamiliar,orangered,weak,,0
+nivi1,alibaba,3.994791667,Unfamiliar,orange,Weak,miranda,0
+nivi1,dropbox,4,Unfamiliar,dark blue,Strong,dropbox,1
+nivi1,hilton,4.03125,Unfamiliar,blue,Weak,,0
+nivi1,ups,4.973958333,Unfamiliar,blackgold,weak,,0
+,,,,,,,
+naman1,icici,1,Familiar,orangered,weak,"icic
+",0
+naman1,starbucks,1.010416667,Familiar,green,Strong,starbucks,1
+naman1,coca cola,1.015625,Familiar,red,Strong,cococola,1
+naman1,barbie,1.020833333,Familiar,pink,Strong,barbie,1
+naman1,nike,1.020833333,Familiar,black,Strong,nike,1
+naman1,ups,1.020833333,Familiar,blackgold,weak,"icic
+",0
+naman1,snapchat,1.020833333,Familiar,yellow,Strong,snapchat,1
+naman1,hilton,1.036458333,Familiar,blue,Weak,dropbox,0
+naman1,motherdairy,2.026041667,Familiar,light blue,Weak,,0
+naman1,district,2.041666667,Familiar,purple,Weak,,0
+naman1,dropbox,3,Unfamiliar,dark blue,weak,hilton,0
+naman1,alibaba,3.979166667,Unfamiliar,orange,strong,alibaba,1
+,,,,,,,
+dev1,coca cola,1,Familiar,red,weak,cpca,0
+dev1,barbie,1,Familiar,pink,Strong,barbie,1
+dev1,icici,1,Familiar,orangered,Strong,icici,1
+dev1,nike,1,Familiar,black,Strong,nike,1
+dev1,starbucks,1,Familiar,green,Strong,starbucks,1
+dev1,motherdairy,1,Familiar,light blue,Weak,,0
+dev1,snapchat,1,Familiar,yellow,Strong,snapchat,1
+dev1,district,1.989583333,Familiar,purple,Weak,district,1
+dev1,ups,3.005208333,Unfamiliar,blackgold,weak,icici,0
+dev1,hilton,3.958333333,Unfamiliar,blue,Weak,,0
+dev1,dropbox,3.989583333,Unfamiliar,dark blue,weak,,0
+dev1,alibaba,3.989583333,Unfamiliar,orange,Weak,ot,0
+,,,,,,,
+diya1,barbie,1,Familiar,pink,Strong,barbie,1
+diya1,coca cola,1.005208333,Familiar,red,Strong,coca cola,1
+diya1,snapchat,1.010416667,Familiar,yellow,Strong,snapchat,1
+diya1,starbucks,1.015625,Familiar,green,Strong,starbucks,1
+diya1,nike,1.026041667,Familiar,black,Strong,nike,1
+diya1,motherdairy,1.994791667,Familiar,light blue,strong,mother dairy,1
+diya1,district,2.026041667,Familiar,purple,strong,district,1
+diya1,icici,3.953125,Unfamiliar,orangered,Strong,icici,1
+diya1,dropbox,4.010416667,Unfamiliar,dark blue,weak,,0
+diya1,alibaba,4.984375,Unfamiliar,orange,Weak,,0
+diya1,hilton,4.989583333,Unfamiliar,blue,Weak,dropbox,0
+diya1,ups,4.989583333,Unfamiliar,blackgold,weak,icici,0
+,,,,,,,
+jiya1,barbie,1,Familiar,pink,Strong,barbie,1
+jiya1,coca cola,1,Familiar,red,Strong,air india,1
+jiya1,nike,1,Familiar,black,weak,uber,0
+jiya1,snapchat,1,Familiar,yellow,Strong,snapchat,1
+jiya1,starbucks,1,Familiar,green,Strong,starbucks,1
+jiya1,dropbox,1.036458333,Familiar,dark blue,Strong,dropbox,1
+jiya1,icici,1.104166667,Familiar,orangered,Strong,icici,1
+jiya1,motherdairy,1.979166667,Familiar,light blue,Weak,,0
+jiya1,hilton,2.026041667,Familiar,blue,Weak,twitter,0
+jiya1,ups,2.026041667,Familiar,blackgold,weak,icici,0
+jiya1,district,3,Unfamiliar,purple,Weak,,0
+jiya1,alibaba,4.942708333,Unfamiliar,orange,Weak,,0
+,,,,,,,
+aahi1,nike,1,Familiar,black,Strong,nike,1
+aahi1,district,1,Familiar,purple,Weak,d,0
+aahi1,coca cola,1,Familiar,red,Strong,coca cola,1
+aahi1,barbie,1,Familiar,pink,Strong,barbie,1
+aahi1,starbucks,1,Familiar,green,Strong,starbucks,1
+aahi1,snapchat,1,Familiar,yellow,Strong,snapchat,1
+aahi1,icici,1.958333333,Familiar,orangered,weak,,0
+aahi1,alibaba,3.0625,Unfamiliar,orange,Weak,icici,0
+aahi1,hilton,3.911458333,Unfamiliar,blue,Weak,mother dairy ,0
+aahi1,dropbox,3.947916667,Unfamiliar,dark blue,strong ,dropbox,1
+aahi1,motherdairy,4.036458333,Unfamiliar,light blue,Weak,,0
+aahi1,ups,4.994791667,Unfamiliar,blackgold,Weak,,0
+,,,,,,,
+ansh1,coca cola,1,Familiar,red,Strong,coca cola,1
+ansh1,district,1.005208333,Familiar,purple,strong,district,1
+ansh1,snapchat,1.005208333,Familiar,yellow,weak,,0
+ansh1,starbucks,1.005208333,Familiar,green,Strong,starbucks,1
+ansh1,nike,1.010416667,Familiar,black,Strong,nike,1
+ansh1,ups,2.020833333,Familiar,blackgold,weak,fanta,0
+ansh1,icici,2.989583333,Unfamiliar,orangered,weak,,0
+ansh1,dropbox,2.994791667,Unfamiliar,dark blue,Strong,dropbox,1
+ansh1,barbie,3.020833333,Unfamiliar,pink,Strong,barbie,1
+ansh1,hilton,3.989583333,Unfamiliar,blue,Weak,,0
+ansh1,alibaba,4,Unfamiliar,orange,Weak,icici,0
+ansh1,motherdairy,4,Unfamiliar,light blue,Weak,tiffany and co ,0
+,,,,,,,
+esha1,barbie,1,Familiar,pink,Strong,barbie,1
+esha1,nike,1.010416667,Familiar,black,Strong,nike,1
+esha1,district,1.010416667,Familiar,purple,Weak,,0
+esha1,coca cola,1.052083333,Familiar,red,Strong,coca cola,1
+esha1,snapchat,1.052083333,Familiar,yellow,Strong,snapchat,1
+esha1,starbucks,1.052083333,Familiar,green,Strong,starbucks,1
+esha1,icici,3.052083333,Unfamiliar,orangered,Strong,icici,1
+esha1,ups,4,Unfamiliar,blackgold,weak,,0
+esha1,motherdairy,4.005208333,Unfamiliar,light blue,Weak,,0
+esha1,alibaba,4.005208333,Unfamiliar,orange,Weak,alibaba,0
+esha1,dropbox,4.052083333,Unfamiliar,dark blue,Strong,dropbox,1
+esha1,hilton,4.953125,Unfamiliar,blue,strong,hilton,1
+,,,,,,,
+dhun1,nike,1,Familiar,black,Strong,nike,1
+dhun1,icici,1,Familiar,orangered,Strong,icici bank,1
+dhun1,starbucks,1.020833333,Familiar,green,Strong,starbucks,1
+dhun1,barbie,1.036458333,Familiar,pink,Strong,barbie,1
+dhun1,dropbox,1.927083333,Familiar,dark blue,weak,,0
+dhun1,snapchat,2.010416667,Familiar,yellow,Strong,snapchat,1
+dhun1,coca cola,2.09375,Familiar,red,Strong,cococola ,1
+dhun1,district,3.036458333,Unfamiliar,purple,Weak,milka,0
+dhun1,hilton,3.958333333,Unfamiliar,blue,Weak,"dropbox
+ ",0
+dhun1,motherdairy,3.984375,Unfamiliar,light blue,strong,mother dairy,1
+dhun1,alibaba,4.979166667,Unfamiliar,orange,strong,ali baba,1
+dhun1,ups,5,Unfamiliar,blackgold,weak,,0
